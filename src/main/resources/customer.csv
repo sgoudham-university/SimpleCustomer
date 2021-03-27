@@ -1,4 +1,5 @@
-emailAddress,firstName,lastName,password
-derek.somerville@glasgow.ac.uk,Derek,Somerville,1234
-matthew.barr@glasgow.ac.uk,Matt,Barr,4321
-e.kelly.1@research.gla.ac.uk,Ethan,Kelly,9876
+emailAddress, forename, surname, password
+derek.somerville@glasgow.ac.uk, Derek, Somerville, 1234
+matthew.barr@glasgow.ac.uk, Matt, Barr, 4321
+e.kelly.1@research.gla.ac.uk, Ethan, Kelly, 9876
+2563586s@student.gla.ac.uk, Goudham, Suresh, 9371
