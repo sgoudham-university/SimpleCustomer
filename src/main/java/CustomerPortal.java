@@ -40,7 +40,7 @@ public class CustomerPortal {
             display.displayMessage("Please Sign Up!");
         }
         else if (customer.getPassword().equals(customerPassword)) {
-            display.displayMessage("Logged In As: " + customerEmailAddress + "");
+            display.displayMessage("Logged In As: " + customerEmailAddress);
         }
         else {
             display.displayMessage("Uh Oh! Wrong Password. Try Again Later!");
