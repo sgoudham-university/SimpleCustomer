@@ -16,18 +16,13 @@ public class Customer {
         this.password = password;
     }
 
-    public void setEmailAddress(String emailAddress) {
-        this.emailAddress = emailAddress;
-    }
-
+    public void setEmailAddress(String emailAddress) { this.emailAddress = emailAddress; }
     public void setForename(String forename) {
         this.forename = forename;
     }
-
     public void setSurname(String surname) {
         this.surname = surname;
     }
-
     public void setPassword(String password) {
         this.password = password;
     }
